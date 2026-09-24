@@ -1,0 +1,6 @@
+{
+  "name": "FORESTGUARD AI",
+  "description": "AI-Powered Environmental & Natural Resource Risk Intelligence Platform for Deforestation, Wildfire, Climate Exposure, Ecosystem Degradation, Biodiversity, Supply Chains, and Compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
